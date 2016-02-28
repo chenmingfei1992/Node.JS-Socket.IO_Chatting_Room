@@ -1,0 +1,20 @@
+Group Members:
+MINGFEI CHEN  438830
+RICHARD YU    425065
+
+Link to instance:
+ec2-54-175-101-121.compute-1.amazonaws.com:3456/Muti_room_client.html
+
+CREATIVE PORTION
+
+1. Users can see the name list of online clients, to check who is online currently. Users can also see the public rooms available, and also see the private rooms which need password.
+
+2. The user activities are recorded and updated, when another user created a room, leaves a room, kick a person, kicked out from a room, gets in a room, all these information will be shown to each clients on screen.
+
+3. When a user created a private room, he does not need to remember it, the password information about his private rooms will be shown to the owner, others can not see that, so owner will not lose the key.
+
+4. User can invite friends to his private room, when invitation is made, the invitation together with password will be sent to the specific client he selected.
+
+
+
+
