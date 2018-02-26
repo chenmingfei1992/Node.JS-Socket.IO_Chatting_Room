@@ -1,6 +1,8 @@
 
-(Java) Frogger: Java based Arcaded game                                                        Dec 2011                  
-•	Implement a game to direct frogs to goals by crossing hazards, allow multiple-player competition. 
+This chat service will contain a main lobby where users sign on with a nickname and can communicate with each other. 
+Users may also create chat rooms for other to join. 
+The entire app will be displayed on a single webpage, listing the room you are in, all available rooms, 
+and the users in the current room.
 
 Link to instance:
 ec2-54-175-101-121.compute-1.amazonaws.com:3456/Muti_room_client.html
